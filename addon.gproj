@@ -1,0 +1,8 @@
+GameProject {
+ ID "CollabMapCasualOps"
+ GUID "65A72D2E31A99C4E"
+ TITLE "CollabMapCasualOps"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
